@@ -1,0 +1,22 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="230" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="184" y="92" />
+    <location key="DiffWindow.0.0.1440.900" x="120" y="143" />
+    <location key="RollbackChangesDialog.0.0.1440.900" x="507" y="164" />
+    <location key="findTextDialog.0.0.1440.900" x="514" y="190" />
+    <location key="OptionsEditor.0.0.1440.900" x="120" y="23" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="458" y="247" />
+    <location key="#Images.0.0.1440.900" x="449" y="166" />
+    <location key="StructurePopup.0.0.1440.900" x="502" y="178" />
+    <location key="DiffContextDialog.0.0.1440.900" x="100" y="123" />
+    <location key="SettingsEditor.0.0.1440.900" x="201" y="92" />
+    <size key="DiffWindow.0.0.1440.900" width="1200" height="573" />
+    <size key="StructurePopup.0.0.1440.900" width="408" height="440" />
+    <size key="javadoc.popup.0.0.1440.900" width="600" height="418" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.1440.900" width="465" height="420" />
+    <size key="DiffContextDialog.0.0.1440.900" width="1240" height="612" />
+    <extendedState key="DiffContextDialog" state="0" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+</application>

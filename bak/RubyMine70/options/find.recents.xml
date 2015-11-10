@@ -1,0 +1,47 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>labresult</find>
+      <find>activity_m</find>
+      <find>activities</find>
+      <find>\s+:</find>
+      <find>popup_</find>
+      <find>check_owner</find>
+      <find>total_height</find>
+      <find>chart_height</find>
+      <find>time_ax</find>
+      <find>time_scal</find>
+      <find>charts</find>
+      <find>lines</find>
+      <find>add</find>
+      <find>y_scal</find>
+      <find>dashboardb</find>
+      <find>history_it</find>
+      <find>(</find>
+      <find>currd</find>
+      <find>time_ex</find>
+      <find>time_axis</find>
+      <find>cr_values</find>
+      <find>sid</find>
+      <find>console</find>
+      <find>default</find>
+      <find>default_locale</find>
+      <find>other_activities</find>
+      <find>otherActivitySelected</find>
+      <find>disab</find>
+      <find>load_activity_types</find>
+      <find>removin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>loadDietHistory</replace>
+      <replace>:</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/projects/SmartSports/app/assets</dir>
+      <dir>$USER_HOME$/projects/SmartSports</dir>
+      <dir>$USER_HOME$/projects/SmartSports/app</dir>
+      <dir>$USER_HOME$/projects/SmartSports/app/views/pages</dir>
+      <dir>$USER_HOME$/projects/SmartSports/app/controllers</dir>
+    </dirStrings>
+  </component>
+</application>

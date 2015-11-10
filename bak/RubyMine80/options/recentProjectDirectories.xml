@@ -1,0 +1,44 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/projects/ServerTracker" />
+        <option value="$USER_HOME$/projects/SmartSports" />
+        <option value="$USER_HOME$/projects/MedicationDB" />
+        <option value="$USER_HOME$/projects" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/projects/ServerTracker" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/projects/ServerTracker" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/ServerTracker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-143.381" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1447187421347" />
+              <option name="buildTimestamp" value="1446246000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/SmartSports">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-143.381" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1447187202889" />
+              <option name="buildTimestamp" value="1446246000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

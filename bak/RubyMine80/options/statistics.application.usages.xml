@@ -1,0 +1,69 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="ServerTracker" values="ECMAScript 5.1" collectionTime="1447187496041" />
+      <project id="SmartSports" values="ECMAScript 5.1" collectionTime="1447187395636" />
+      <project id="MedicationDB" values="DEFAULT" collectionTime="0" />
+    </group>
+    <group name="module type">
+      <project id="ServerTracker" values="RUBY_MODULE" collectionTime="1447187496031" />
+      <project id="SmartSports" values="RUBY_MODULE" collectionTime="1447187395508" />
+      <project id="MedicationDB" values="RUBY_MODULE" collectionTime="0" />
+    </group>
+    <group name="vcs">
+      <project id="SmartSports" values="Git" collectionTime="1447187395507" />
+      <project id="MedicationDB" values="Git" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="ServerTracker" values="RailsRunConfigurationType,RakeRunConfigurationType" collectionTime="1447187496031" />
+      <project id="SmartSports" values="RailsRunConfigurationType,RakeRunConfigurationType" collectionTime="1447187395508" />
+      <project id="MedicationDB" values="RakeRunConfigurationType,RailsRunConfigurationType" collectionTime="0" />
+    </group>
+    <group name="file-type">
+      <project id="ServerTracker" values="Images,RDOC,RHTML,YAML,Ruby,JavaScript,UNKNOWN,HTML,PLAIN_TEXT,XML,CSS" collectionTime="1447187496037" />
+      <project id="SmartSports" values="YAML,Images,HTML,UNKNOWN,CSS,SQLite Database,RDOC,XML,CoffeeScript,Ruby,RHTML,DATASOURCE_STORAGE,SourceMap,JavaScript,PLAIN_TEXT,SCSS" collectionTime="1447187395514" />
+      <project id="MedicationDB" values="PLAIN_TEXT,JavaScript,SQLite Database,HTML,RHTML,UNKNOWN,CSS,Ruby,YAML,Images,RDOC,XML" collectionTime="0" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="SmartSports" values="SQLite/3.6.23.1,SQLite/3.6.23.1" collectionTime="1447187395634" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="ServerTracker" values="thread_safe,nokogiri,bundler,builder,rake,mini_portile,rack-test,erubis,thor,tzinfo,sdoc,rdoc,turbolinks,i18n,coffee-script-source,coffee-script" collectionTime="1447187496038" />
+      <project id="SmartSports" values="omniauth-oauth,time_zone_ext,rake,activerecord,rack,treetop,bundler,mail,omniauth-fitbit,i18n,omniauth-google-oauth2,jquery-turbolinks,domain_name,faraday,multipart-post,actionview,thread_safe,oauth,sorcery,sqlite3,polyglot,ansi,netrc,mime-types,coffee-rails,http-cookie,doorkeeper,omniauth-withings,oauth2,rest-client,sass-rails,misfit_gem,activemodel,paperclip,metaclass,delayed_job,sdoc,turbolinks,coffee-script-source,unf,rails,momentjs-rails,multi_json,actionmailer,omniauth,tilt,railties,json,spring,httparty,thor,coffee-script,minitest-reporters,actionpack,rack-test,cocaine,font-awesome-sass,delayed_job_active_record,mocha,bcrypt,simplificator-withings,sprockets,moves,bootstrap3-datetimepicker-rails,omniauth-moves,minitest,chronic,rack-mobile-detect,fitgem,unf_ext,jwt,hike,omniauth-shine,tzinfo,uglifier,ruby-progressbar,omniauth-oauth2,activesupport,bootstrap-sass,multi_xml,mobile-fu,sprockets-rails,hashie,erubis,daemons,rdoc,execjs,arel,sass,jbuilder,builder,climate_control" collectionTime="1447187395522" />
+      <project id="MedicationDB" values="activesupport,jbuilder,tzinfo,thor,coffee-rails,rdoc,multi_json,activemodel,sprockets,jquery-rails,minitest,builder,mail,sass,i18n,coffee-script,actionmailer,erubis,coffee-script-source,hike,rake,sass-rails,bundler,nokogiri,activerecord,polyglot,rails,capybara,spring,sprockets-rails,json,rack,actionpack,sdoc,treetop,poltergeist,rack-test,mini_portile,sqlite3,websocket-driver,cliver,actionview,uglifier,arel,xpath,tilt,thread_safe,execjs,websocket-extensions,railties,mime-types,turbolinks" collectionTime="0" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="SmartSports" values="org.sqlite.JDBC,org.sqlite.JDBC" collectionTime="1447187395634" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="ServerTracker" values="rails unknown" collectionTime="1447187496038" />
+      <project id="SmartSports" values="rails 4.1" collectionTime="1447187395521" />
+      <project id="MedicationDB" values="rails 4.1" collectionTime="0" />
+    </group>
+    <group name="ruby-sdk-version">
+      <project id="ServerTracker" values="ruby-2.0.0-p247" collectionTime="1447187496038" />
+      <project id="SmartSports" values="ruby-2.0.0-p247" collectionTime="1447187395521" />
+      <project id="MedicationDB" values="ruby-2.0.0-p247" collectionTime="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="ServerTracker" values="Project,Project" collectionTime="1447187496041" />
+      <project id="SmartSports" values="Project,Project" collectionTime="1447187395636" />
+      <project id="MedicationDB" values="Project,Project" collectionTime="0" />
+    </group>
+    <group name="frameworks">
+      <project id="ServerTracker" values="RailsFacetType" collectionTime="1447187496031" />
+      <project id="SmartSports" values="RailsFacetType" collectionTime="1447187395508" />
+      <project id="MedicationDB" values="RailsFacetType" collectionTime="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="22" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ideaapp.started" count="28" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>
