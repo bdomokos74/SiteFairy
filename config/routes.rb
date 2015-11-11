@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :measurements
+  resources :servers
   devise_for :users, controllers: { sessions: "users/sessions" }
 
   # The priority is based upon order of creation: first created -> highest priority.
